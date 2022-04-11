@@ -1,0 +1,6 @@
+A gestão de projetos com SCRUM tende a criar o software por partes, adicionando mais funções a cada novo ciclo.
+Enquanto a gestão tradicional só permite o acance quando uma fase está inteiramente completa.
+
+o time do SCRUM são o PO (project owner) o scrum master e o time de desenvolvimento
+
+cada ciclo do desenvolmento tende a ter no máximo de 30dias e é chamado de Sprint.

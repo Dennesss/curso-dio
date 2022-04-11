@@ -1,0 +1,1 @@
+Aula sobre erros, explicando os tipos de erros e como lidar com erros com comando tipo Throw/cat e finally

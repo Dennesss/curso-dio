@@ -1,0 +1,7 @@
+Entender o pensamento computacional desenvolvendo  raciocínios para resolver qualquer problema de maneira objetiva e mais eficiente.
+Pilares do pensamento computacional:
+Decomposição - Divisão dos problemas em partes menores.
+Reconhecimento de padrões - reconhecimento de características que alguns problemas compartilham.
+Abstração - Filtrar e classificar dados para focar em elementos essenciais e ignorando detalhes irrelevantes.
+Algoritmo - sequencia finita de passos, plano, estratégia ou conjunto de instruções ordenadas para a solução do problema ou execução da tarefa.
+

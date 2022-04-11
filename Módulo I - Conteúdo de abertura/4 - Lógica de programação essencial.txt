@@ -1,0 +1,3 @@
+Introdução a lógica de programação, sequencia de algoritmos, utilização de pseudocódigo e fluxogramas variáveis e constantes.
+Utilização do Flowgorithm
+utilização do Portugol

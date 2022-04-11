@@ -1,0 +1,15 @@
+Ferramenta para controle de versão e armazenamento em nuvem.
+Facilita o trabalho em equipe e a melhoria do seu código
+reconhecimento pelos códigos publicos em seu nome.
+
+Funcionamento básico do Git/Github
+Objetos internos do Git
+Configuração de chave SSH
+comandos básicos do Git
+
+git init
+git status
+git push
+git pull
+git commit
+git clone
